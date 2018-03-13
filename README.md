@@ -1,4 +1,5 @@
 # ChatApplication
+
 *CSC 3002 F - Assignment 1
 *Client with ClientThread to contact server
 *Server visa-versa
