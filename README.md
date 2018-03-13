@@ -1,9 +1,10 @@
 # ChatApplication
 
-*CSC 3002 F - Assignment 1\n
-*Client with ClientThread to contact server
-*Server visa-versa
-*Currently limited to multiple users on same PC OR 'localhost'
+ *CSC 3002 F - Assignment 1
+
+* Client with ClientThread to contact server
+ *Server visa-versa
+ *Currently limited to multiple users on same PC OR 'localhost'
 
 # Server 
 *to run simply run ChatServer.java at folder location: ChatServer\src\ChatServer\server
