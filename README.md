@@ -4,6 +4,8 @@
 * Client with ClientThread to contact server
 * Server visa-versa
 * Currently limited to multiple users on same PC OR 'localhost'
+* Both the server and client has a Thread java file working alongside it
+* 
 
 
 
@@ -11,7 +13,7 @@
 
 
 # To Run Server OR Client in terminal use the following commands 
-First move to director with either client OR server EXAMPLE ==> cd "\ChatServer\src\ChatServer\server"
+First move to director with either client OR server EXAMPLE ==> cd "C:\Users\Public\ChatServer\src\ChatServer\server"
 #### For Server
 *  javac -classpath . ChatServer.java ServerThread.java
 *  java ChatServer
